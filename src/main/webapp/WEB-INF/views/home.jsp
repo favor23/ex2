@@ -5,6 +5,7 @@
 <title>Home</title>
 </head>
 <body>
+<a href="notice/noticeList">NoticeList</a>
 	<h1>Hello world!</h1>
 
 	<P>The time on the server is ${serverTime}.</P>
