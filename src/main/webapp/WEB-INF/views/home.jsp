@@ -17,13 +17,14 @@
 
 <ul>
 	<li>choa</li>
-<<<<<<< HEAD
+
 	<li>123123</li>
 	<li>masteradd2</li>
-=======
+
 	<li>bug_FIX_1</li>
 	<li>bug_fix_add1</li>
->>>>>>> BugFix_1
+	<li>conflict_1</li>
+
 </ul>
 </body>
 </html>
