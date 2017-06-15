@@ -12,22 +12,16 @@
 
 
 	<h2>GIT TEST</h2>
+<ul>
+	<li>choa</li>
 
-	<ul>
-		<li>choa</li>
+	<li>123123</li>
+	<li>masteradd2</li>
 
-		<li>123123</li>
-		<li>masteradd2</li>
+	<li>bug_FIX_1</li>
+	<li>bug_fix_add1</li>
+	<li>conflict_1</li>
 
-		<li>bug_FIX_1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-		<li>bug_fix_add1</li>
-
-	</ul>
+</ul>
 </body>
 </html>
